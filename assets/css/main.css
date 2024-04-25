@@ -2534,7 +2534,7 @@ table.alt tfoot {
 
 #header .image.avatar {
   margin: 0 0 1em 0;
-  width: 15em;
+  width: 12em;
   background: linear-gradient(225deg, var(--link) 0%, var(--accent) 100%);
 }
 
